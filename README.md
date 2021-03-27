@@ -19,6 +19,7 @@ Current status:
 ├── releases
 ├── develop
 └── features
+    └── v5xx_Angular_Base_Project
 </pre>
 
 Please prefix you features the version of angular they have to be ran with: <pre>vXXX_Human_readable_short_description</pre>
