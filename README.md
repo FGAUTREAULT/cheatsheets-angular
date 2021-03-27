@@ -22,3 +22,6 @@ Current status:
 </pre>
 
 Please prefix you features the version of angular they have to be ran with: <pre>vXXX_Human_readable_short_description</pre>
+
+# Angular version compatibility
+> _https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3_
