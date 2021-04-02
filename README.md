@@ -18,7 +18,8 @@ Current status: 💻
 ├── main
 ├── releases
 ├── develop
-    └── v5xx_Angular_Base_Project
+    ├── v5xx_Angular_Base_Project
+    └── v5xx_Angular_Base_Components
 └── features
     └── v5xx_Angular_Base_Project
 </pre>
