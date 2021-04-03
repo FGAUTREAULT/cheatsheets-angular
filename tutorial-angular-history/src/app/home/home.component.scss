@@ -1,0 +1,7 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    :nth-child(n){
+        padding: 1rem 0;
+    }
+}
