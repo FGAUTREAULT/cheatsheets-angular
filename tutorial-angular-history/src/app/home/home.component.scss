@@ -1,0 +1,9 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    background-color: lightseagreen;
+    :nth-child(n){
+        padding: 1rem 0;
+    }
+}
