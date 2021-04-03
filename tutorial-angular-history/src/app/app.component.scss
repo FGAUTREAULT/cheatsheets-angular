@@ -1,0 +1,15 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    .app-header, .app-footer{
+        padding: 0 1rem;
+        background-color: black;
+        color: white;
+    }
+    .app-content{
+        padding: 0 1rem;
+        flex: 1 1 auto;
+        background-color: lightgray;
+    }
+}
