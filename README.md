@@ -31,7 +31,7 @@ Please prefix your features with the version of angular they have to be built wi
 To use older versions of angular you will be required the compatible versions of <kbd>nodejs</kbd>, <kbd>npm</kbd> and <kbd>@angular/cli</kbd>
 
 Here are easy steps to ensure that.
-1. Install nvm
+1. Install nvm (check latest script first)
 > _https://github.com/nvm-sh/nvm_
 2. To enable nvm close & reopen your terminal
 <pre>
