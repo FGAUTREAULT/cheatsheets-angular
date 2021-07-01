@@ -61,3 +61,9 @@ ng serve --open
 
 # Design Experiments
 > _https://codepen.io/FGAUTREAULT/pen/BapZZgG_  
+
+# ⚡️ Performance Optimization ⚡️
+> _https://t.co/HSi1qcePBu_  // Bundle optimization  
+> _https://t.co/XlYJqfurP6_  // Profiling apps in @ChromeDevTools  
+> _https://t.co/ete6KJtpXE_  // Using the Angular extension for @ChromeDevTools  
+> _https://t.co/d6uF14KjOi_  // Angular performance checklist
