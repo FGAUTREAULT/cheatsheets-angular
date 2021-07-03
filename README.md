@@ -6,7 +6,10 @@ See wiki for more information on Angular history & features.
 
 Checkout branches to see different implementation of the demonstration project for different features and versions of Angular. This project evolve with the goal of demonstration of Angular history, along with new features added and best practices appearance.
 
-# Git Tree
+# 📰 Bloging 📰
+> [Regular DOM vs Virtual DOM](https://github.com/FGAUTREAULT/cheatsheets-frontend/wiki)  
+
+# 💻 Coding 💻
 This repository uses gitflow. 
 * Develop branch get the current stable work in progress. 
 * Features will start from the develop branches and be closed if they are ment to be part of the main development. 
@@ -58,6 +61,8 @@ ng new my-app
 cd my-app
 ng serve --open
 </pre>
+
+# 🎓 Learning 🎓
 
 # Design Experiments
 > _https://codepen.io/FGAUTREAULT/pen/BapZZgG_  
