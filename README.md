@@ -6,8 +6,8 @@ See wiki for more information on Angular history & features.
 
 Checkout branches to see different implementation of the demonstration project for different features and versions of Angular. This project evolve with the goal of demonstration of Angular history, along with new features added and best practices appearance.
 
-# 📰 Bloging 📰
-> [Regular DOM vs Virtual DOM](https://github.com/FGAUTREAULT/cheatsheets-frontend/wiki)  
+# 📰 Blogging 📰
+> [Complete Angular History](https://github.com/FGAUTREAULT/cheatsheets-angular/wiki)  
 
 # 💻 Coding 💻
 This repository uses gitflow. 
