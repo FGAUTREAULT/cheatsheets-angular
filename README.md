@@ -9,6 +9,7 @@ Checkout branches to see different implementation of the demonstration project f
 # 📰 Blogging 📰
 > [Complete Angular History](https://github.com/FGAUTREAULT/cheatsheets-angular/wiki)  
 > [Angular vs React](https://github.com/FGAUTREAULT/cheatsheets-angular/wiki)  
+> [AOT, JIT, Ivy Compiler](https://github.com/FGAUTREAULT/cheatsheets-angular/wiki)  
 
 # 💻 Coding 💻
 This repository uses gitflow. 
